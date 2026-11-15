@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Prince Home Services"
+version = "1.0.0"
+id = "artifacts/prince-home-services"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19394
+
+[services.development]
+run = "pnpm --filter @workspace/prince-home-services run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/prince-home-services", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/prince-home-services/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19394"
+BASE_PATH = "/"

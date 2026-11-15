@@ -1,0 +1,353 @@
+Build a premium, modern, mobile-first website for a local home services and electronics business.
+
+## Business Name
+
+Prince Home Services
+
+## Business Description
+
+Prince Home Services provides doorstep repair, installation, maintenance, and electronic product sales for customers within approximately a 25 km radius of Mahadeva Bazar, Gorakhpur.
+
+The website should feel modern, trustworthy, premium, and fast.
+
+---
+
+## Business Information
+
+Phone:
++91 9793234755
+
+Email:
+[pm9719826@gmail.com](mailto:pm9719826@gmail.com)
+
+Address:
+Mahadeva Bazar, Gorakhpur, Uttar Pradesh, India
+
+---
+
+## Theme
+
+Use a clean premium UI with:
+
+* Blue
+* White
+* Orange accents
+
+Use modern typography, rounded cards, subtle shadows, smooth animations, glassmorphism where appropriate, attractive icons, and professional illustrations.
+
+The website must look excellent on mobile, tablet, and desktop.
+
+---
+
+# Navigation
+
+* Home
+* Services
+* Shop
+* About Us
+* Why Choose Us
+* Service Areas
+* Testimonials
+* FAQ
+* Contact
+
+Include a sticky navigation bar.
+
+---
+
+# Hero Section
+
+Headline:
+
+**Your Trusted Home Service & Electronics Partner in Gorakhpur**
+
+Subheadline:
+
+Professional doorstep repair, installation, maintenance, and genuine electronic products—all in one place.
+
+Buttons:
+
+* Book Service
+* Shop Now
+* Call Now
+* WhatsApp
+
+---
+
+# Services Section
+
+Create beautiful service cards with icons and illustrations.
+
+Include categories such as:
+
+## Air Conditioning
+
+* Split AC Service
+* Window AC Service
+* AC Installation
+* AC Uninstallation
+* AC Gas Refilling
+* AC Maintenance
+* AC Deep Cleaning
+
+## Refrigerator
+
+* Refrigerator Repair
+* Refrigerator Installation
+* Gas Charging
+* Compressor Repair
+
+## Washing Machine
+
+* Fully Automatic Repair
+* Semi Automatic Repair
+* Installation
+* Maintenance
+
+## Water Purifier
+
+* RO Installation
+* RO Repair
+* Filter Replacement
+* Annual Maintenance
+
+## Geyser
+
+* Installation
+* Repair
+* Maintenance
+
+## Cooler
+
+* Cooler Repair
+* Motor Replacement
+* Pump Replacement
+* Seasonal Maintenance
+
+## Kitchen Appliances
+
+* Mixer Grinder Repair
+* Microwave Repair
+* Induction Cooktop Repair
+* Electric Kettle Repair
+* Chimney Service
+
+## Home Electronics
+
+* Television Repair
+* Ceiling Fan Repair
+* Exhaust Fan Repair
+* Water Pump Repair
+* Inverter Service
+* Battery Replacement
+
+## Electrical Services
+
+* Switch Board Repair
+* Wiring
+* Socket Installation
+* MCB Replacement
+* Doorbell Installation
+* Light Installation
+* Electrical Fault Diagnosis
+
+Each service card should contain:
+
+* Professional icon
+* Short description
+* Estimated starting price (placeholder)
+* Book Now button
+
+---
+
+# Online Shop
+
+Create a modern shopping section where local customers can purchase electronic products.
+
+Product categories:
+
+* Ceiling Fans
+* Mixer Grinders
+* Water Purifiers
+* RO Filters
+* AC Spare Parts
+* Refrigerator Parts
+* Washing Machine Parts
+* Electric Kettles
+* Geysers
+* Extension Boards
+* LED Bulbs
+* Switches
+* Electrical Accessories
+* Small Home Appliances
+
+Each product card should include:
+
+* Product Image
+* Product Name
+* Price
+* Short Description
+* Rating
+* Add to Cart
+* Buy Now
+
+Create a beautiful shopping interface with category filters and search.
+
+For now, use placeholder products.
+
+---
+
+# Booking System
+
+Create a booking form with:
+
+* Name
+* Phone Number
+* Address
+* Service Required
+* Preferred Date
+* Preferred Time
+* Problem Description
+
+After submission display:
+
+"Thank you! Our technician will contact you shortly."
+
+---
+
+# Why Choose Us
+
+Create animated cards:
+
+* Same Day Service
+* Experienced Technicians
+* Affordable Pricing
+* Genuine Spare Parts
+* Doorstep Service
+* Fast Response
+* Trusted Local Business
+* Customer Satisfaction
+
+---
+
+# Testimonials
+
+Generate 8 realistic customer testimonials with:
+
+* Name
+* Rating
+* Short review
+* Profile image placeholder
+
+---
+
+# FAQ
+
+Include FAQs such as:
+
+* Which areas do you cover?
+* How quickly can a technician arrive?
+* Which brands do you repair?
+* Do you provide genuine spare parts?
+* Do you offer installation services?
+* Can I order products online?
+* What payment methods are accepted?
+
+---
+
+# Service Areas
+
+Mention that services are available within approximately 25 km of Mahadeva Bazar, Gorakhpur.
+
+Include a Google Map.
+
+---
+
+# Contact Section
+
+Display:
+
+Phone
+
+Email
+
+Address
+
+Business Hours
+
+Google Maps
+
+WhatsApp Button
+
+Call Button
+
+---
+
+# Footer
+
+Include:
+
+Business Information
+
+Quick Links
+
+Services
+
+Shop
+
+Contact
+
+Social Media Icons
+
+Copyright
+
+Privacy Policy
+
+Terms & Conditions
+
+---
+
+# Extra Features
+
+* Floating WhatsApp Button
+* Floating Call Button
+* Scroll to Top Button
+* Dark Mode Toggle
+* Search Bar
+* Product Search
+* Service Search
+* Beautiful Loading Animation
+* SEO Optimized
+* Fast Loading
+* Responsive Design
+* Accessibility Friendly
+* Professional Icons
+* Smooth Animations
+* Attractive Hover Effects
+* Clean Modern UI
+* Local SEO optimized for Gorakhpur
+
+---
+
+# Technical Requirements
+
+Generate production-quality code.
+
+Use a clean folder structure.
+
+Optimize performance and SEO.
+
+Prepare the project so it can later integrate:
+
+* Payment Gateway
+* Admin Dashboard
+* Inventory Management
+* Order Tracking
+* Technician Dashboard
+* Customer Accounts
+* Appointment Management
+* Email Notifications
+* WhatsApp Notifications
+* SMS Notifications
+
+The website should be designed as a scalable business platform that starts as a local home services website and can later evolve into a complete electronics service and e-commerce platform.
